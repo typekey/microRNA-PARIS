@@ -1,3 +1,3 @@
 # miRNA PARIS2
 
-A workflow for microRNA data processing using Nextflow.
+A workflow for microRNA-PARIS data processing using Nextflow.
