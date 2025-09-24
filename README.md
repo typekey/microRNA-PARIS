@@ -1,2 +1,3 @@
-# microRNA-PARIS
-A bioinformatics pipeline for microRNA-PARIS.
+# miRNA PARIS2
+
+A workflow for m6A-SAC-seq data processing using Nextflow.
